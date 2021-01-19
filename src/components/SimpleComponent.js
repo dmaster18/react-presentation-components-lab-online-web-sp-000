@@ -4,10 +4,7 @@ import React, { Component } from 'react'
 class SimpleComponent extends Component {
   constructor(props) {
     super(props);
- 
-    // Initial state here...
-    this.state = {
-    };
+    this.state = {mood: 'happy'};
   }
  
   handleClick = () => {
