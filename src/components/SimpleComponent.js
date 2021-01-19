@@ -9,6 +9,7 @@ class SimpleComponent extends Component {
   
   handleClick = () => {
     
+    
   }
  
   render() {
