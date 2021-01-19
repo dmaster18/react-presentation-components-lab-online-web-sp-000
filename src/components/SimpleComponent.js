@@ -13,7 +13,9 @@ class SimpleComponent extends Component {
         {mood: 'sad'}
         )
     } else {
-      this.setState
+      this.setState(
+        {
+        )
     }
     
   }
