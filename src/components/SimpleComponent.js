@@ -1,5 +1,6 @@
 // Code SimpleComponent Here
 import React, { Component } from 'react'
+
 class ComponentName extends Component {
   constructor(props) {
     super(props);
