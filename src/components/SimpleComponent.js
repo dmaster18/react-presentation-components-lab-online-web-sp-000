@@ -25,3 +25,5 @@ class SimpleComponent extends Component {
       )
   }
 }
+
+export default SimpleComponent;
