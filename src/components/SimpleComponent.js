@@ -10,11 +10,11 @@ class SimpleComponent extends Component {
   handleClick = () => {
     if (this.state.mood === 'happy') {
       this.setState(
-        return {mood: 'sad'};
+         {mood: 'sad'};
         )
     } else {
       this.setState(
-        return {mood: 'happy'};
+        {mood: 'happy'};
       )
     }
   }
