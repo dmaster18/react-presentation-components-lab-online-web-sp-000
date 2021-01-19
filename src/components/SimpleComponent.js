@@ -8,6 +8,6 @@ class SimpleComponent extends Component {
   }
  
   render() {
-    <div>{this.state.mood}</div>
+    <div> {this.state.mood} </div>
   }
 }
