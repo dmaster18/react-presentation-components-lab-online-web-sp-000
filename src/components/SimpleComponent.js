@@ -6,6 +6,10 @@ class SimpleComponent extends Component {
     super(props);
     this.state = {mood: 'happy'};
   }
+  
+  handleClick = () => {
+    
+  }
  
   render() {
     <div> {this.state.mood} </div>
