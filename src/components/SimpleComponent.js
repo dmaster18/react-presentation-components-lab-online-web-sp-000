@@ -12,11 +12,11 @@ class SimpleComponent extends Component {
       this.setState(
          {mood: 'sad'}
         )
-    } /*else {
+    } else {
       this.setState(
         {mood: 'happy'}
       )
-    }*/
+    }
   }
  
   render() {
