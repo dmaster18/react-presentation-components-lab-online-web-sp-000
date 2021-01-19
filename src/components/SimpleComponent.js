@@ -12,6 +12,6 @@ class SimpleComponent extends Component {
   }
  
   render() {
-    // Return JSX that renders into HTML
+    <div>{this.state.mood
   }
 }
