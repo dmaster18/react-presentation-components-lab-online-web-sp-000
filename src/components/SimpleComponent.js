@@ -8,7 +8,7 @@ class SimpleComponent extends Component {
   }
   
   handleClick = () => {
-    
+    IF 
     
   }
  
