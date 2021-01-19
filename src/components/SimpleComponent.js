@@ -17,7 +17,6 @@ class SimpleComponent extends Component {
         {mood: 'happy'}
         )
     }
-    
   }
  
   render() {
